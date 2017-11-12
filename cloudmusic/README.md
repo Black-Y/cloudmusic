@@ -24,4 +24,5 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 api来源："https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=neteasecloudmusicapi"
 目前只实现了部分功能，看看截图吧
 
- ![image](https://black-y.com/)
+ ![image](https://github.com/Black-Y/cloudmusic/blob/master/cloudmusic/src/testImg/GIF1.gif)
+  ![image](https://github.com/Black-Y/cloudmusic/blob/master/cloudmusic/src/testImg/GIF2.gif)
